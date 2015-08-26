@@ -1,0 +1,14 @@
+{
+  "name": "puppet-debugmodule",
+  "version": "0.1.0",
+  "author": "Erlend Midttun",
+  "summary": "Puppet debugging module",
+  "license": "Apache 2.0",
+  "source": "https://github.com/erlendbm/puppet-debugmodule.git",
+  "project_page": "https://github.com/erlendbm/puppet-debugmodule",
+  "issues_url": "https://github.com/erlendbm/puppet-debugmodule/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
